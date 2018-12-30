@@ -11,6 +11,6 @@ Ideas for project:
   something with three.js (did somebody say interactive 3D models?),
   mapbox API (esp. [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/)),
   iOS app (with [ionic](https://ionicframework.com/)),
-  toaster than runs DOOM,  
+  toaster than runs DOOM,
   et cetera
   
